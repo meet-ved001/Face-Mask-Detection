@@ -14,7 +14,7 @@ The model is saved in .h5 format as mask_detector1.model.h5, making it easy to d
 
 ![image](https://github.com/user-attachments/assets/0e0fb57e-659c-4a65-b660-92c5baa62609)
 
-**Training Loss and Accuracy:**
+**Training Loss and Accuracy Plot:**
 
 ![image](https://github.com/user-attachments/assets/db4d9284-a390-4d80-ad3d-d64aa6d8594f)
 
